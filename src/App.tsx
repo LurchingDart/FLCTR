@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router';
-import LandingPage from '@/pages/LandingPage';
-import AppPage from '@/pages/AppPage';
+import LandingPage from '@/pages/Landing.tsx';
+import AppPage from '@/pages/App.tsx';
 
 function App() {
   return (

@@ -1,4 +1,4 @@
-function AppPage() {
+function App() {
     return (
         <div className="app">
             <main className="app-main">
@@ -11,4 +11,4 @@ function AppPage() {
     );
 }
 
-export default AppPage;
+export default App;

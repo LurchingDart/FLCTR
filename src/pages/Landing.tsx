@@ -1,4 +1,4 @@
-function LandingPage() {
+function Landing() {
     return (
         <div className="app">
             <main className="app-main">
@@ -24,4 +24,4 @@ function LandingPage() {
     )
 }
 
-export default LandingPage;
+export default Landing;
